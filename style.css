@@ -1,0 +1,23 @@
+
+body {
+    text-align: center;
+    background-image: linear-gradient(to bottom, #e78c22, #d6efff, #43e35a);
+    font-size:20px;
+    
+  }
+ 
+  #brand {
+    font-family: "Merriweather", serif;
+  }
+
+  #intro {
+    text-align: center;
+    line-height: 2;
+    font-size: 20px;
+    font-family: "Merriweather", serif;
+    padding-left:20px;
+    padding-right:20px;
+  }
+
+
+  
